@@ -1,0 +1,29 @@
+行到水穷处，坐看云起时
+
+文献的优劣
+- 文章引用次数
+- 期刊影响因子
+
+ACM digital library
+DBLP - digital bibiliography library project
+CiteSeer
+IEEE - Institue of electrical and electronics engineers
+
+
+科技论文的基本结构
+题名
+著者 工作单位
+摘要   	-中英
+关键词	-中英
+正文	-引言，实验部分，结果与讨论，结论
+致谢	-学会感谢
+参考文献-尊重别人的劳动
+
+论文构成
+摘要
+引言
+主体
+结论
+致谢
+文献
+

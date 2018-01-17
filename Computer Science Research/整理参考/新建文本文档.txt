@@ -1,0 +1,74 @@
+SCI - Scientific Citation Index 科学引文索引
+EI  - Engineering Index 工程索引
+ISTP - Index to Scientific and Technical Proceedings 科学技术会议索引
+ISR - Index to Scientific Reviews
+
+
+权威期刊
+核心期刊
+重要期刊
+一般期刊
+
+
+IEEE Institute of Electrical and Electronics Engineers
+ACM  Association for Computing Machinery
+
+会议
+IEEE International Conforence on Computer Vision
+IEEE Conference on Computer Vision and Pattern Recognition
+European Conference on Computer Vision
+International Conference on Machine Learning
+IEEE International Conference on Distributed Computing System 
+
+1-MOBICOM
+ACM International Conference on Mobile
+Computing and Networking
+ACM
+ 
+2-SIGCOMM
+ACM International Conference on the
+applications, technologies, architectures, and
+protocols for computer communication
+
+3-INFOCOM
+IEEE International Conference on Computer
+Communications
+
+4-SenSys ACM Conference on Embedded Networked Sensor Systems ACM 
+
+5-CoNEXT
+ACM International Conference on emerging Networking
+EXperiments and Technologies
+
+6-SECON
+IEEE Communications Society Conference on Sensor and Ad Hoc
+Communications and Networks
+
+
+期刊
+ACM Computeing Survey
+International Journal of Computer Vision
+Journal of Machine Learning Research
+Pattern Recognition
+neural Network
+
+1-TON IEEE/ACM Transactions on Networking IEEE, ACM 
+2-JSAC IEEE Journal of Selected Areas in Communications IEEE 
+3-TMC IEEE Transactions on Mobile Computing IEEE 
+4-TOIT ACM Transactions on Internet Technology ACM 
+5-TOMCCAP
+ACM Transactions on Multimedia Computing,
+Communications and Applications
+ACM 
+6-TOSN ACM Transactions on Sensor Networks ACM 
+7-CN Computer Networks Elsevier 
+
+
+
+
+
+
+
+
+
+
